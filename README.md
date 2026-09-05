@@ -15,9 +15,14 @@ Data Structure and Algorithm
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/santanukhorat/DSA/tree/master/0001-two-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/santanukhorat/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/santanukhorat/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/santanukhorat/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
