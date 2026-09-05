@@ -1,4 +1,4 @@
-// Added using AI
+
 var firstStableIndex = function(nums, k) {
     const n = nums.length;
     const mn = new Array(n);
