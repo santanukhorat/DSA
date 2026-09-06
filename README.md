@@ -17,6 +17,7 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santanukhorat/DSA/tree/master/0001-two-sum) |
+| [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3904-smallest-stable-index-ii](https://github.com/santanukhorat/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -34,4 +35,24 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/santanukhorat/DSA/tree/master/0115-distinct-subsequences) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
