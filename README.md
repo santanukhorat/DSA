@@ -26,4 +26,12 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santanukhorat/DSA/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/santanukhorat/DSA/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/santanukhorat/DSA/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
