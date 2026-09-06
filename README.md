@@ -1,6 +1,6 @@
 # DSA
 Data Structure and Algorithm
-LeedCode Problem Solved
+LeetCode Problem Solved
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
