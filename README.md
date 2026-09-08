@@ -57,4 +57,8 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/santanukhorat/DSA/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
