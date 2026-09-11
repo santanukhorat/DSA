@@ -13,11 +13,13 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/santanukhorat/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/santanukhorat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santanukhorat/DSA/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/santanukhorat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/santanukhorat/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -27,6 +29,7 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santanukhorat/DSA/tree/master/0001-two-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/santanukhorat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -74,4 +77,8 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/santanukhorat/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/santanukhorat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
