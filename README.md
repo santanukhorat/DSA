@@ -19,6 +19,7 @@ LeetCode Problem Solved
 | ------- |
 | [0001-two-sum](https://github.com/santanukhorat/DSA/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/santanukhorat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/santanukhorat/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -40,6 +41,7 @@ LeetCode Problem Solved
 | ------- |
 | [0115-distinct-subsequences](https://github.com/santanukhorat/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/santanukhorat/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +50,7 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,4 +84,8 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/santanukhorat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
