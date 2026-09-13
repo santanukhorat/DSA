@@ -19,6 +19,7 @@ LeetCode Problem Solved
 | ------- |
 | [0001-two-sum](https://github.com/santanukhorat/DSA/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0835-image-overlap](https://github.com/santanukhorat/DSA/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/santanukhorat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/santanukhorat/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -88,4 +89,8 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/santanukhorat/DSA/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
