@@ -37,16 +37,19 @@ LeetCode Problem Solved
 | ------- |
 | [0115-distinct-subsequences](https://github.com/santanukhorat/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/santanukhorat/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/santanukhorat/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/santanukhorat/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/santanukhorat/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/santanukhorat/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/santanukhorat/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +101,8 @@ LeetCode Problem Solved
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/santanukhorat/DSA/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/santanukhorat/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
