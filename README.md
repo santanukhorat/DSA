@@ -34,12 +34,14 @@ LeetCode Problem Solved
 | ------- |
 | [0001-two-sum](https://github.com/santanukhorat/DSA/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/santanukhorat/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/santanukhorat/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/santanukhorat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/santanukhorat/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/santanukhorat/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/santanukhorat/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/santanukhorat/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -99,6 +101,7 @@ LeetCode Problem Solved
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/santanukhorat/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -111,6 +114,7 @@ LeetCode Problem Solved
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/santanukhorat/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/santanukhorat/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
