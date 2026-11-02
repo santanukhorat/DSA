@@ -24,6 +24,7 @@ LeetCode Problem Solved
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/santanukhorat/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/santanukhorat/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/santanukhorat/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/santanukhorat/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/santanukhorat/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/santanukhorat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -89,6 +90,7 @@ LeetCode Problem Solved
 | [0287-find-the-duplicate-number](https://github.com/santanukhorat/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/santanukhorat/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/santanukhorat/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/santanukhorat/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
@@ -135,6 +137,7 @@ LeetCode Problem Solved
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/santanukhorat/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/santanukhorat/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/santanukhorat/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santanukhorat/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
